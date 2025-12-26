@@ -1,16 +1,15 @@
 {
   "expo": {
-    "name": "project_music_app",
-    "slug": "project_music_app",
+    "name": "my_database_app",
+    "slug": "my_database_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "projectmusicapp",
+    "scheme": "mydatabaseapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.joaoantoniof.project-music-app"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
